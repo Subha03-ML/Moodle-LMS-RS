@@ -1,0 +1,16 @@
+S.No.,Course Id,Course Name,Label,Core Subject
+1,MA8491,Numerical Methods,1,Mathematics
+2,MA8351,Discrete Mathematics,2,Mathematics
+3,CS6704,Resource Management Techniques,3,Mathematics
+4,CS8351 ,Digital Principles and System Design,1,Digital Electronics
+5,EE8591,Digital Signal Processing,2,Digital Electronics
+6,EC8093,Digital Image Processing,3,Digital Electronics
+7,EC8252,Electronic Devices,1,Electronics Engineering
+8,EC8395,Communication Engineering,2,Electronics Engineering
+9,EC8691,Microprocessors and Microcontrollers,3,Electronics Engineering
+10,CS8491,Computer Architecture,1,Data Processing
+11,CS8391 ,Data Structures,2,Data Processing
+12,MC5301,Advanced Data Structures,3,Data Processing
+13,GE6151,Computer Programming,1,Computing Technologies
+14,CS8392,Object Oriented Programming,2,Computing Technologies
+15,CS5651,Cloud Computing,3,Computing Technologies
